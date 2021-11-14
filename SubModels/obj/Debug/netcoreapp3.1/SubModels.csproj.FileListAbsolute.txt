@@ -1,0 +1,35 @@
+C:\Assignment\SubModels\bin\Debug\netcoreapp3.1\SubModels.deps.json
+C:\Assignment\SubModels\bin\Debug\netcoreapp3.1\SubModels.dll
+C:\Assignment\SubModels\bin\Debug\netcoreapp3.1\SubModels.pdb
+C:\Assignment\SubModels\obj\Debug\netcoreapp3.1\SubModels.AssemblyInfoInputs.cache
+C:\Assignment\SubModels\obj\Debug\netcoreapp3.1\SubModels.AssemblyInfo.cs
+C:\Assignment\SubModels\obj\Debug\netcoreapp3.1\SubModels.csproj.CoreCompileInputs.cache
+C:\Assignment\SubModels\obj\Debug\netcoreapp3.1\SubModels.dll
+C:\Assignment\SubModels\obj\Debug\netcoreapp3.1\SubModels.pdb
+C:\Assignment\SubModels\obj\Debug\netcoreapp3.1\SubModels.csprojAssemblyReference.cache
+C:\Tests\NetworkListener.Api\SubModels\bin\Debug\netcoreapp3.1\SubModels.deps.json
+C:\Tests\NetworkListener.Api\SubModels\bin\Debug\netcoreapp3.1\SubModels.dll
+C:\Tests\NetworkListener.Api\SubModels\bin\Debug\netcoreapp3.1\SubModels.pdb
+C:\Tests\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.AssemblyInfoInputs.cache
+C:\Tests\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.AssemblyInfo.cs
+C:\Tests\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.csproj.CoreCompileInputs.cache
+C:\Tests\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.dll
+C:\Tests\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.pdb
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\SubModels\bin\Debug\netcoreapp3.1\SubModels.deps.json
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\SubModels\bin\Debug\netcoreapp3.1\SubModels.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\SubModels\bin\Debug\netcoreapp3.1\SubModels.pdb
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.AssemblyInfoInputs.cache
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.AssemblyInfo.cs
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.csproj.CoreCompileInputs.cache
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.pdb
+C:\Listener\NetworkListener.Api\SubModels\bin\Debug\netcoreapp3.1\SubModels.deps.json
+C:\Listener\NetworkListener.Api\SubModels\bin\Debug\netcoreapp3.1\SubModels.dll
+C:\Listener\NetworkListener.Api\SubModels\bin\Debug\netcoreapp3.1\SubModels.pdb
+C:\Listener\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Listener\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.AssemblyInfoInputs.cache
+C:\Listener\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.AssemblyInfo.cs
+C:\Listener\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.csproj.CoreCompileInputs.cache
+C:\Listener\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.dll
+C:\Listener\NetworkListener.Api\SubModels\obj\Debug\netcoreapp3.1\SubModels.pdb

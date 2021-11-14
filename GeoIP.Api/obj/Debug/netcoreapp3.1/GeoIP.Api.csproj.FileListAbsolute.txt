@@ -1,0 +1,199 @@
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.exe
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.deps.json
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.runtimeconfig.json
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.runtimeconfig.dev.json
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.dll
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.pdb
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\SubModels.dll
+C:\Assignment\InternetProtocol.Api\bin\Debug\netcoreapp3.1\SubModels.pdb
+C:\Assignment\InternetProtocol.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.csprojAssemblyReference.cache
+C:\Assignment\InternetProtocol.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.AssemblyInfoInputs.cache
+C:\Assignment\InternetProtocol.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.AssemblyInfo.cs
+C:\Assignment\InternetProtocol.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.csproj.CoreCompileInputs.cache
+C:\Assignment\InternetProtocol.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Assignment\InternetProtocol.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Assignment\InternetProtocol.Api\obj\Debug\netcoreapp3.1\staticwebassets\GeoIP.Api.StaticWebAssets.Manifest.cache
+C:\Assignment\InternetProtocol.Api\obj\Debug\netcoreapp3.1\staticwebassets\GeoIP.Api.StaticWebAssets.xml
+C:\Assignment\InternetProtocol.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\GeoIP.Api.styles.css
+C:\Assignment\InternetProtocol.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.RazorTargetAssemblyInfo.cache
+C:\Assignment\InternetProtocol.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.csproj.CopyComplete
+C:\Assignment\InternetProtocol.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.dll
+C:\Assignment\InternetProtocol.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.pdb
+C:\Assignment\InternetProtocol.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.genruntimeconfig.cache
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.exe
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.deps.json
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.runtimeconfig.json
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.runtimeconfig.dev.json
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.pdb
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\SubModels.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.AssemblyInfoInputs.cache
+C:\Tests\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.AssemblyInfo.cs
+C:\Tests\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.csproj.CoreCompileInputs.cache
+C:\Tests\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Tests\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Tests\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\staticwebassets\GeoIP.Api.StaticWebAssets.Manifest.cache
+C:\Tests\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\staticwebassets\GeoIP.Api.StaticWebAssets.xml
+C:\Tests\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\GeoIP.Api.styles.css
+C:\Tests\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.RazorTargetAssemblyInfo.cache
+C:\Tests\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.csproj.CopyComplete
+C:\Tests\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.pdb
+C:\Tests\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.genruntimeconfig.cache
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Tests\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.csprojAssemblyReference.cache
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.exe
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.deps.json
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.runtimeconfig.json
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.runtimeconfig.dev.json
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.pdb
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\SubModels.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.AssemblyInfoInputs.cache
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.AssemblyInfo.cs
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.csproj.CoreCompileInputs.cache
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\staticwebassets\GeoIP.Api.StaticWebAssets.Manifest.cache
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\staticwebassets\GeoIP.Api.StaticWebAssets.xml
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\GeoIP.Api.styles.css
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.RazorTargetAssemblyInfo.cache
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.csproj.CopyComplete
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.dll
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.pdb
+C:\Seneca Assignment\NetworkListener.Api\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.genruntimeconfig.cache
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.exe
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.deps.json
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.runtimeconfig.json
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.runtimeconfig.dev.json
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\GeoIP.Api.pdb
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\SubModels.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.csproj.AssemblyReference.cache
+C:\Listener\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Listener\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.AssemblyInfoInputs.cache
+C:\Listener\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.AssemblyInfo.cs
+C:\Listener\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.csproj.CoreCompileInputs.cache
+C:\Listener\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Listener\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Listener\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\staticwebassets\GeoIP.Api.StaticWebAssets.Manifest.cache
+C:\Listener\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\staticwebassets\GeoIP.Api.StaticWebAssets.xml
+C:\Listener\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\GeoIP.Api.styles.css
+C:\Listener\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.RazorTargetAssemblyInfo.cache
+C:\Listener\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.dll
+C:\Listener\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.pdb
+C:\Listener\NetworkListener.Api\GeoIP.Api\obj\Debug\netcoreapp3.1\GeoIP.Api.genruntimeconfig.cache

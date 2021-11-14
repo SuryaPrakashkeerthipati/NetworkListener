@@ -1,0 +1,60 @@
+version: '3.3'
+networks:
+  localdev:
+    driver: bridge
+services:
+  networklistenerapi:
+    build:
+      context: .
+      dockerfile: NetworkListener.Api/Dockerfile
+    image: networklistenerapi
+    ports:
+      - "5000:80" 
+    networks:
+      - localdev    
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development       
+  geoipapi:
+    build:
+      context: .
+      dockerfile: GeoIP.Api/Dockerfile
+    image: geoipapi
+    ports:
+      - "5001:80"
+    networks:
+      - localdev
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development      
+  rdapapi:
+    build:
+      context: .
+      dockerfile: RDAP.Api/Dockerfile
+    image: rdapapi
+    ports:
+      - "5002:80"
+    networks:
+      - localdev
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development      
+  rdnsapi:
+    build:
+      context: .
+      dockerfile: RDNS.Api/Dockerfile
+    image: rdnsapi
+    ports:
+      - "5003:80"
+    networks:
+      - localdev
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development      
+  pingapi:
+    build:
+      context: .
+      dockerfile: Ping.Api/Dockerfile
+    image: pingapi
+    ports:
+      - "5004:80"
+    networks:
+      - localdev
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development      

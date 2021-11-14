@@ -1,0 +1,5 @@
+C:\Assignment\Main.Api\obj\Debug\netcoreapp3.1\Main.Api.csprojAssemblyReference.cache
+C:\Assignment\Main.Api\obj\Debug\netcoreapp3.1\Main.Api.AssemblyInfoInputs.cache
+C:\Assignment\Main.Api\obj\Debug\netcoreapp3.1\Main.Api.AssemblyInfo.cs
+C:\Assignment\Main.Api\obj\Debug\netcoreapp3.1\Main.Api.csproj.CoreCompileInputs.cache
+C:\Assignment\Main.Api\obj\Debug\netcoreapp3.1\Main.Api.MvcApplicationPartsAssemblyInfo.cache

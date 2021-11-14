@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetworkListener.Api", "NetworkListener.Api\NetworkListener.Api.csproj", "{81198C49-4018-42A1-A72C-6CDEF7C307D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeoIP.Api", "GeoIP.Api\GeoIP.Api.csproj", "{BC08AEC0-4CA2-42F2-A85E-8E52AB2E6FB7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDAP.Api", "RDAP.Api\RDAP.Api.csproj", "{B0FC1DF6-494F-44E1-BBFE-F1FBA53ACD09}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDNS.Api", "RDNS.Api\RDNS.Api.csproj", "{6569E671-EC1E-458E-B89B-E1FE6746DB1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetworkListener.Api.Tests", "NetworkListner.Api.Tests\NetworkListener.Api.Tests.csproj", "{E1854693-9181-4BC7-A7D4-5355144FE6F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ping.Api", "Ping.Api\Ping.Api.csproj", "{576ED8F2-E3D8-411E-9ED7-A6744E54B975}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubModels", "SubModels\SubModels.csproj", "{C89621F7-9C68-4DD8-B6B0-0EFE3A14EF54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81198C49-4018-42A1-A72C-6CDEF7C307D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81198C49-4018-42A1-A72C-6CDEF7C307D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81198C49-4018-42A1-A72C-6CDEF7C307D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81198C49-4018-42A1-A72C-6CDEF7C307D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC08AEC0-4CA2-42F2-A85E-8E52AB2E6FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC08AEC0-4CA2-42F2-A85E-8E52AB2E6FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC08AEC0-4CA2-42F2-A85E-8E52AB2E6FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC08AEC0-4CA2-42F2-A85E-8E52AB2E6FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FC1DF6-494F-44E1-BBFE-F1FBA53ACD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FC1DF6-494F-44E1-BBFE-F1FBA53ACD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FC1DF6-494F-44E1-BBFE-F1FBA53ACD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FC1DF6-494F-44E1-BBFE-F1FBA53ACD09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6569E671-EC1E-458E-B89B-E1FE6746DB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6569E671-EC1E-458E-B89B-E1FE6746DB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6569E671-EC1E-458E-B89B-E1FE6746DB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6569E671-EC1E-458E-B89B-E1FE6746DB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1854693-9181-4BC7-A7D4-5355144FE6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1854693-9181-4BC7-A7D4-5355144FE6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1854693-9181-4BC7-A7D4-5355144FE6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1854693-9181-4BC7-A7D4-5355144FE6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576ED8F2-E3D8-411E-9ED7-A6744E54B975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576ED8F2-E3D8-411E-9ED7-A6744E54B975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576ED8F2-E3D8-411E-9ED7-A6744E54B975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576ED8F2-E3D8-411E-9ED7-A6744E54B975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C89621F7-9C68-4DD8-B6B0-0EFE3A14EF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89621F7-9C68-4DD8-B6B0-0EFE3A14EF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89621F7-9C68-4DD8-B6B0-0EFE3A14EF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89621F7-9C68-4DD8-B6B0-0EFE3A14EF54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5DFFB02-24B4-4BD1-AD43-756D4895B9AF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Tests\NetworkListener.Api\SubModels\bin\Release\netcoreapp3.1\SubModels.deps.json
+C:\Tests\NetworkListener.Api\SubModels\bin\Release\netcoreapp3.1\SubModels.dll
+C:\Tests\NetworkListener.Api\SubModels\bin\Release\netcoreapp3.1\SubModels.pdb
+C:\Tests\NetworkListener.Api\SubModels\obj\Release\netcoreapp3.1\SubModels.AssemblyInfoInputs.cache
+C:\Tests\NetworkListener.Api\SubModels\obj\Release\netcoreapp3.1\SubModels.AssemblyInfo.cs
+C:\Tests\NetworkListener.Api\SubModels\obj\Release\netcoreapp3.1\SubModels.csproj.CoreCompileInputs.cache
+C:\Tests\NetworkListener.Api\SubModels\obj\Release\netcoreapp3.1\SubModels.dll
+C:\Tests\NetworkListener.Api\SubModels\obj\Release\netcoreapp3.1\SubModels.pdb
