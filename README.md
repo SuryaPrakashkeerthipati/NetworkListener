@@ -26,4 +26,6 @@ Ping.Api--http://localhost:5004/swagger/index.html
 
 Follow below mentioned commands to publish Api's into docker.It builds the containers of the individual docker files.
 
+Go to the root folder of the project and run below mentioned command through command line.
+
 docker-compose up --build
