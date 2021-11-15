@@ -4,15 +4,12 @@ using System.Net;
 
 namespace SubModels.Models
 {
+    [JsonObject(ItemNullValueHandling = NullValueHandling.Ignore)]
     public class HttpProcessResults<T>
     {
         private T _result;
-
         public bool IsSuccess { get; set; }
-
         public HttpStatusCode HttpStatusCode { get; set; }
-
-        [JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
         public T Result
         {
             get { return _result; }
@@ -22,9 +19,6 @@ namespace SubModels.Models
                 IsSuccess = true;
             }
         }
-
-        [JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
         public string Message { get; set; }
-
     }
 }
