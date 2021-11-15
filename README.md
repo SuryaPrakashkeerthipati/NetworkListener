@@ -18,9 +18,13 @@ Ping.Api--http://localhost:5004/swagger/index.html
 
 # Test Steps 
 
- 1.In NetworkListner.Api pass valid 'IpAddress','Apiversion' as 1.0 and services is an optinal parameter.
+ In NetworkListner.Api pass the below mentioned input parametes in swagger. 
  
- 2.If you want specific service pass services as camma separate values like this GEOIP,RDAP,PING
+       IpAddress --Any valid Ip address
+       Services -- GEOIP,RDAP,PING
+       Version -- 1.0
+       
+  Note:Service is an optional parameter.If we not pass any value it get the services from configuration and process.      
 
 # Docker Commands
 
